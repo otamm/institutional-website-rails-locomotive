@@ -146,3 +146,1551 @@ Found page "Home page" [index]
 [0;32;49mCompleted 200 OK in 2.5ms
 
 [0m
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+[0;97;49mStarted GET "/" at 2015-04-22 15:28:32 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 19.3ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-04-22 16:41:49 -0300
+* Reloaded "pages", "snippets" at 2015-04-22 17:00:08 -0300
+* Reloaded "pages", "snippets" at 2015-04-22 17:00:30 -0300
+[0;97;49mStarted GET "/" at 2015-04-22 17:00:37 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 4.3ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-04-22 17:00:39 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.1ms
+
+[0m
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+[0;97;49mStarted GET "/" at 2015-04-22 17:00:52 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 19.5ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-04-22 17:00:54 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.1ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-04-22 17:01:02 -0300
+[0;97;49mStarted GET "/" at 2015-04-22 17:01:04 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 4.6ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-04-22 17:05:34 -0300
+[0;97;49mStarted GET "/" at 2015-04-22 17:05:38 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.1ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-04-22 17:05:40 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.3ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-04-22 17:09:25 -0300
+* Reloaded "pages", "snippets" at 2015-04-22 17:09:31 -0300
+* Reloaded "pages", "snippets" at 2015-04-22 17:10:16 -0300
+* Reloaded "pages", "snippets" at 2015-04-22 17:10:20 -0300
+* Reloaded "pages", "snippets" at 2015-04-22 17:10:29 -0300
+* Reloaded "pages", "snippets" at 2015-04-22 17:10:34 -0300
+* Reloaded "pages", "snippets" at 2015-04-22 17:10:43 -0300
+* Reloaded "pages", "snippets" at 2015-04-22 17:11:22 -0300
+* Reloaded "pages", "snippets" at 2015-04-22 17:12:04 -0300
+* Reloaded "content_types", "content_entries" at 2015-04-22 17:15:23 -0300
+undefined method `[]' for false:FalseClass
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_types_reader.rb:36:in `add'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_types_reader.rb:24:in `block in fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_types_reader.rb:21:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_types_reader.rb:21:in `fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_types_reader.rb:13:in `read'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter.rb:99:in `with_locale'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon/listen.rb:41:in `block in apply'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `call'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `_process_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:246:in `block in _wait_for_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `loop'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `_wait_for_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:318:in `block in _start_wait_thread'
+
+
+* Reloaded "content_types", "content_entries" at 2015-04-22 17:15:45 -0300
+* Reloaded "content_types", "content_entries" at 2015-04-22 17:16:11 -0300
+* Reloaded "content_types", "content_entries" at 2015-04-22 17:16:21 -0300
+* Reloaded "content_types", "content_entries" at 2015-04-22 17:17:23 -0300
+* Reloaded "content_types", "content_entries" at 2015-04-22 17:17:28 -0300
+* Reloaded "content_types", "content_entries" at 2015-04-22 17:17:34 -0300
+* Reloaded "content_types", "content_entries" at 2015-04-22 17:18:14 -0300
+* Reloaded "content_types", "content_entries" at 2015-04-22 17:18:27 -0300
+* Reloaded "content_types", "content_entries" at 2015-04-22 17:18:44 -0300
+* Reloaded "content_types", "content_entries" at 2015-04-22 17:18:47 -0300
+* Reloaded "content_types", "content_entries" at 2015-04-22 17:18:49 -0300
+* Reloaded "content_types", "content_entries" at 2015-04-22 17:19:12 -0300
+* Reloaded "content_types", "content_entries" at 2015-04-22 17:19:18 -0300
+* Reloaded "content_types", "content_entries" at 2015-04-22 17:19:21 -0300
+* Reloaded "content_types", "content_entries" at 2015-04-22 17:19:28 -0300
+* Reloaded "content_types", "content_entries" at 2015-04-22 17:19:47 -0300
+* Reloaded "content_types", "content_entries" at 2015-04-22 17:19:59 -0300
+* Reloaded "content_types", "content_entries" at 2015-04-22 17:20:21 -0300
+* Reloaded "content_entries" at 2015-04-22 17:20:46 -0300
+* Reloaded "content_entries" at 2015-04-22 17:20:56 -0300
+["/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/models/content_entry.rb:203:in `method_missing'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/models/content_type.rb:80:in `block (2 levels) in build_entry'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/models/content_type.rb:73:in `each'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/models/content_type.rb:73:in `block in build_entry'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/models/content_type.rb:68:in `tap'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/models/content_type.rb:68:in `build_entry'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:75:in `add'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:29:in `block (2 levels) in fetch_from_filesystem'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each_with_index'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `block in fetch_from_filesystem'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:40:in `each'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter.rb:99:in `with_locale'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:39:in `reload'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon/listen.rb:41:in `block in apply'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `call'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `_process_changes'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:246:in `block in _wait_for_changes'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `loop'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `_wait_for_changes'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:318:in `block in _start_wait_thread'"]
+The 'our_dna_icons' content type does not have a field named 'redirect'.
+The 'our_dna_icons' content type does not have a field named 'redirect'.
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/models/content_type.rb:86:in `rescue in block (2 levels) in build_entry'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/models/content_type.rb:74:in `block (2 levels) in build_entry'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/models/content_type.rb:73:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/models/content_type.rb:73:in `block in build_entry'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/models/content_type.rb:68:in `tap'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/models/content_type.rb:68:in `build_entry'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:75:in `add'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:29:in `block (2 levels) in fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each_with_index'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `block in fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter.rb:99:in `with_locale'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon/listen.rb:41:in `block in apply'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `call'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `_process_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:246:in `block in _wait_for_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `loop'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `_wait_for_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:318:in `block in _start_wait_thread'
+
+
+* Reloaded "content_entries" at 2015-04-22 17:21:59 -0300
+(<unknown>): found character that cannot start any token while scanning for the next token at line 2 column 1
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse_stream'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:318:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:245:in `load'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/base.rb:57:in `read_yaml'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:22:in `block in fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter.rb:99:in `with_locale'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon/listen.rb:41:in `block in apply'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `call'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `_process_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:246:in `block in _wait_for_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `loop'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `_wait_for_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:318:in `block in _start_wait_thread'
+
+
+* Reloaded "content_entries" at 2015-04-22 17:22:44 -0300
+(<unknown>): found character that cannot start any token while scanning for the next token at line 2 column 1
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse_stream'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:318:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:245:in `load'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/base.rb:57:in `read_yaml'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:22:in `block in fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter.rb:99:in `with_locale'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon/listen.rb:41:in `block in apply'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `call'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `_process_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:246:in `block in _wait_for_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `loop'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `_wait_for_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:318:in `block in _start_wait_thread'
+
+
+* Reloaded "content_entries" at 2015-04-22 17:23:09 -0300
+(<unknown>): found character that cannot start any token while scanning for the next token at line 2 column 1
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse_stream'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:318:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:245:in `load'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/base.rb:57:in `read_yaml'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:22:in `block in fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter.rb:99:in `with_locale'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon/listen.rb:41:in `block in apply'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `call'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `_process_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:246:in `block in _wait_for_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `loop'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `_wait_for_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:318:in `block in _start_wait_thread'
+
+
+* Reloaded "content_entries" at 2015-04-22 17:23:16 -0300
+(<unknown>): found character that cannot start any token while scanning for the next token at line 2 column 1
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse_stream'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:318:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:245:in `load'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/base.rb:57:in `read_yaml'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:22:in `block in fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter.rb:99:in `with_locale'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon/listen.rb:41:in `block in apply'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `call'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `_process_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:246:in `block in _wait_for_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `loop'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `_wait_for_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:318:in `block in _start_wait_thread'
+
+
+[0;97;49mStarted GET "/" at 2015-04-22 17:23:45 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 4.6ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-04-22 17:24:28 -0300
+* Reloaded "pages", "snippets" at 2015-04-22 17:26:42 -0300
+* Reloaded "pages", "snippets" at 2015-04-22 17:26:50 -0300
+* Reloaded "pages", "snippets" at 2015-04-22 17:27:13 -0300
+* Reloaded "pages", "snippets" at 2015-04-22 17:27:17 -0300
+* Reloaded "pages", "snippets" at 2015-04-22 17:27:19 -0300
+* Reloaded "pages", "snippets" at 2015-04-22 17:28:09 -0300
+* Reloaded "pages", "snippets" at 2015-04-22 17:28:27 -0300
+* Reloaded "pages", "snippets" at 2015-04-22 17:28:31 -0300
+* Reloaded "pages", "snippets" at 2015-04-22 17:29:45 -0300
+* Reloaded "pages", "snippets" at 2015-04-22 17:29:53 -0300
+* Reloaded "pages", "snippets" at 2015-04-22 17:30:04 -0300
+* Reloaded "content_entries" at 2015-04-22 17:30:44 -0300
+(<unknown>): found character that cannot start any token while scanning for the next token at line 2 column 1
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse_stream'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:318:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:245:in `load'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/base.rb:57:in `read_yaml'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:22:in `block in fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter.rb:99:in `with_locale'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon/listen.rb:41:in `block in apply'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `call'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `_process_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:246:in `block in _wait_for_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `loop'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `_wait_for_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:318:in `block in _start_wait_thread'
+
+
+[0;97;49mStarted GET "/" at 2015-04-22 17:30:49 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+[0;31;49m[ERROR] undefined method `each' for nil:NilClass - ./app/views/pages/index.liquid:5:in `Home page'
+[0m
+(<unknown>): found character that cannot start any token while scanning for the next token at line 2 column 1
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse_stream'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:318:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:245:in `load'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/base.rb:57:in `read_yaml'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:22:in `block in fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:76:in `block (2 levels) in build_mounting_point'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:73:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:73:in `block in build_mounting_point'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:70:in `tap'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:70:in `build_mounting_point'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:29:in `run!'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon.rb:262:in `require_mounter'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon.rb:75:in `serve'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon/cli.rb:272:in `serve'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/bin/wagon:12:in `<top (required)>'
+	/Users/Adriano/.rbenv/versions/2.1.5/bin/wagon:23:in `load'
+	/Users/Adriano/.rbenv/versions/2.1.5/bin/wagon:23:in `<main>'
+
+
+(<unknown>): found character that cannot start any token while scanning for the next token at line 2 column 1
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse_stream'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:318:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:245:in `load'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/base.rb:57:in `read_yaml'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:22:in `block in fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:76:in `block (2 levels) in build_mounting_point'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:73:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:73:in `block in build_mounting_point'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:70:in `tap'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:70:in `build_mounting_point'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:29:in `run!'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon.rb:262:in `require_mounter'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon.rb:75:in `serve'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon/cli.rb:272:in `serve'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/bin/wagon:12:in `<top (required)>'
+	/Users/Adriano/.rbenv/versions/2.1.5/bin/wagon:23:in `load'
+	/Users/Adriano/.rbenv/versions/2.1.5/bin/wagon:23:in `<main>'
+
+
+(<unknown>): found character that cannot start any token while scanning for the next token at line 2 column 1
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse_stream'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:318:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:245:in `load'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/base.rb:57:in `read_yaml'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:22:in `block in fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:76:in `block (2 levels) in build_mounting_point'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:73:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:73:in `block in build_mounting_point'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:70:in `tap'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:70:in `build_mounting_point'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:29:in `run!'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon.rb:262:in `require_mounter'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon.rb:75:in `serve'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon/cli.rb:272:in `serve'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/bin/wagon:12:in `<top (required)>'
+	/Users/Adriano/.rbenv/versions/2.1.5/bin/wagon:23:in `load'
+	/Users/Adriano/.rbenv/versions/2.1.5/bin/wagon:23:in `<main>'
+
+
+(<unknown>): found character that cannot start any token while scanning for the next token at line 2 column 1
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse_stream'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:318:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:245:in `load'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/base.rb:57:in `read_yaml'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:22:in `block in fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:76:in `block (2 levels) in build_mounting_point'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:73:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:73:in `block in build_mounting_point'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:70:in `tap'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:70:in `build_mounting_point'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:29:in `run!'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon.rb:262:in `require_mounter'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon.rb:75:in `serve'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon/cli.rb:272:in `serve'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/bin/wagon:12:in `<top (required)>'
+	/Users/Adriano/.rbenv/versions/2.1.5/bin/wagon:23:in `load'
+	/Users/Adriano/.rbenv/versions/2.1.5/bin/wagon:23:in `<main>'
+
+
+(<unknown>): found character that cannot start any token while scanning for the next token at line 2 column 1
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse_stream'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:318:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:245:in `load'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/base.rb:57:in `read_yaml'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:22:in `block in fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:76:in `block (2 levels) in build_mounting_point'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:73:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:73:in `block in build_mounting_point'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:70:in `tap'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:70:in `build_mounting_point'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:29:in `run!'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon.rb:262:in `require_mounter'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon.rb:75:in `serve'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon/cli.rb:272:in `serve'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/bin/wagon:12:in `<top (required)>'
+	/Users/Adriano/.rbenv/versions/2.1.5/bin/wagon:23:in `load'
+	/Users/Adriano/.rbenv/versions/2.1.5/bin/wagon:23:in `<main>'
+
+
+(<unknown>): found character that cannot start any token while scanning for the next token at line 2 column 1
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse_stream'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:318:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:245:in `load'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/base.rb:57:in `read_yaml'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:22:in `block in fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:76:in `block (2 levels) in build_mounting_point'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:73:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:73:in `block in build_mounting_point'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:70:in `tap'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:70:in `build_mounting_point'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:29:in `run!'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon.rb:262:in `require_mounter'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon.rb:75:in `serve'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon/cli.rb:272:in `serve'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/bin/wagon:12:in `<top (required)>'
+	/Users/Adriano/.rbenv/versions/2.1.5/bin/wagon:23:in `load'
+	/Users/Adriano/.rbenv/versions/2.1.5/bin/wagon:23:in `<main>'
+
+
+(<unknown>): found character that cannot start any token while scanning for the next token at line 2 column 1
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse_stream'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:318:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:245:in `load'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/base.rb:57:in `read_yaml'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:22:in `block in fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:76:in `block (2 levels) in build_mounting_point'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:73:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:73:in `block in build_mounting_point'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:70:in `tap'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:70:in `build_mounting_point'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:29:in `run!'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon.rb:262:in `require_mounter'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon.rb:75:in `serve'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon/cli.rb:272:in `serve'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/bin/wagon:12:in `<top (required)>'
+	/Users/Adriano/.rbenv/versions/2.1.5/bin/wagon:23:in `load'
+	/Users/Adriano/.rbenv/versions/2.1.5/bin/wagon:23:in `<main>'
+
+
+(<unknown>): found character that cannot start any token while scanning for the next token at line 2 column 1
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse_stream'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:318:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:245:in `load'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/base.rb:57:in `read_yaml'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:22:in `block in fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:76:in `block (2 levels) in build_mounting_point'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:73:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:73:in `block in build_mounting_point'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:70:in `tap'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:70:in `build_mounting_point'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:29:in `run!'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon.rb:262:in `require_mounter'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon.rb:75:in `serve'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon/cli.rb:272:in `serve'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/bin/wagon:12:in `<top (required)>'
+	/Users/Adriano/.rbenv/versions/2.1.5/bin/wagon:23:in `load'
+	/Users/Adriano/.rbenv/versions/2.1.5/bin/wagon:23:in `<main>'
+
+
+(<unknown>): found character that cannot start any token while scanning for the next token at line 2 column 1
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse_stream'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:318:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:245:in `load'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/base.rb:57:in `read_yaml'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:22:in `block in fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:76:in `block (2 levels) in build_mounting_point'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:73:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:73:in `block in build_mounting_point'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:70:in `tap'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:70:in `build_mounting_point'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:29:in `run!'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon.rb:262:in `require_mounter'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon.rb:75:in `serve'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon/cli.rb:272:in `serve'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/bin/wagon:12:in `<top (required)>'
+	/Users/Adriano/.rbenv/versions/2.1.5/bin/wagon:23:in `load'
+	/Users/Adriano/.rbenv/versions/2.1.5/bin/wagon:23:in `<main>'
+
+
+(<unknown>): found character that cannot start any token while scanning for the next token at line 2 column 1
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse_stream'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:318:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:245:in `load'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/base.rb:57:in `read_yaml'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:22:in `block in fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:76:in `block (2 levels) in build_mounting_point'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:73:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:73:in `block in build_mounting_point'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:70:in `tap'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:70:in `build_mounting_point'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:29:in `run!'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon.rb:262:in `require_mounter'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon.rb:75:in `serve'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon/cli.rb:272:in `serve'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/bin/wagon:12:in `<top (required)>'
+	/Users/Adriano/.rbenv/versions/2.1.5/bin/wagon:23:in `load'
+	/Users/Adriano/.rbenv/versions/2.1.5/bin/wagon:23:in `<main>'
+
+
+(<unknown>): found character that cannot start any token while scanning for the next token at line 2 column 1
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse_stream'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:318:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:245:in `load'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/base.rb:57:in `read_yaml'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:22:in `block in fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:76:in `block (2 levels) in build_mounting_point'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:73:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:73:in `block in build_mounting_point'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:70:in `tap'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:70:in `build_mounting_point'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:29:in `run!'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon.rb:262:in `require_mounter'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon.rb:75:in `serve'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon/cli.rb:272:in `serve'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/bin/wagon:12:in `<top (required)>'
+	/Users/Adriano/.rbenv/versions/2.1.5/bin/wagon:23:in `load'
+	/Users/Adriano/.rbenv/versions/2.1.5/bin/wagon:23:in `<main>'
+
+
+(<unknown>): found character that cannot start any token while scanning for the next token at line 2 column 1
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse_stream'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:318:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:245:in `load'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/base.rb:57:in `read_yaml'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:22:in `block in fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:76:in `block (2 levels) in build_mounting_point'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:73:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:73:in `block in build_mounting_point'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:70:in `tap'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:70:in `build_mounting_point'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:29:in `run!'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon.rb:262:in `require_mounter'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon.rb:75:in `serve'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon/cli.rb:272:in `serve'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/bin/wagon:12:in `<top (required)>'
+	/Users/Adriano/.rbenv/versions/2.1.5/bin/wagon:23:in `load'
+	/Users/Adriano/.rbenv/versions/2.1.5/bin/wagon:23:in `<main>'
+
+
+(<unknown>): found character that cannot start any token while scanning for the next token at line 2 column 1
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse_stream'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:318:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:245:in `load'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/base.rb:57:in `read_yaml'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:22:in `block in fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:76:in `block (2 levels) in build_mounting_point'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:73:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:73:in `block in build_mounting_point'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:70:in `tap'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:70:in `build_mounting_point'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:29:in `run!'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon.rb:262:in `require_mounter'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon.rb:75:in `serve'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon/cli.rb:272:in `serve'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/bin/wagon:12:in `<top (required)>'
+	/Users/Adriano/.rbenv/versions/2.1.5/bin/wagon:23:in `load'
+	/Users/Adriano/.rbenv/versions/2.1.5/bin/wagon:23:in `<main>'
+
+
+(<unknown>): found character that cannot start any token while scanning for the next token at line 2 column 1
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse_stream'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:318:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:245:in `load'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/base.rb:57:in `read_yaml'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:22:in `block in fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:76:in `block (2 levels) in build_mounting_point'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:73:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:73:in `block in build_mounting_point'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:70:in `tap'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:70:in `build_mounting_point'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:29:in `run!'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon.rb:262:in `require_mounter'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon.rb:75:in `serve'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon/cli.rb:272:in `serve'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/bin/wagon:12:in `<top (required)>'
+	/Users/Adriano/.rbenv/versions/2.1.5/bin/wagon:23:in `load'
+	/Users/Adriano/.rbenv/versions/2.1.5/bin/wagon:23:in `<main>'
+
+
+(<unknown>): found character that cannot start any token while scanning for the next token at line 2 column 1
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse_stream'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:318:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:245:in `load'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/base.rb:57:in `read_yaml'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:22:in `block in fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:76:in `block (2 levels) in build_mounting_point'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:73:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:73:in `block in build_mounting_point'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:70:in `tap'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:70:in `build_mounting_point'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:29:in `run!'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon.rb:262:in `require_mounter'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon.rb:75:in `serve'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon/cli.rb:272:in `serve'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/bin/wagon:12:in `<top (required)>'
+	/Users/Adriano/.rbenv/versions/2.1.5/bin/wagon:23:in `load'
+	/Users/Adriano/.rbenv/versions/2.1.5/bin/wagon:23:in `<main>'
+
+
+(<unknown>): found character that cannot start any token while scanning for the next token at line 2 column 1
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse_stream'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:318:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:245:in `load'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/base.rb:57:in `read_yaml'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:22:in `block in fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:76:in `block (2 levels) in build_mounting_point'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:73:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:73:in `block in build_mounting_point'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:70:in `tap'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:70:in `build_mounting_point'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:29:in `run!'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon.rb:262:in `require_mounter'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon.rb:75:in `serve'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon/cli.rb:272:in `serve'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/bin/wagon:12:in `<top (required)>'
+	/Users/Adriano/.rbenv/versions/2.1.5/bin/wagon:23:in `load'
+	/Users/Adriano/.rbenv/versions/2.1.5/bin/wagon:23:in `<main>'
+
+
+(<unknown>): found character that cannot start any token while scanning for the next token at line 2 column 1
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse_stream'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:318:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:245:in `load'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/base.rb:57:in `read_yaml'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:22:in `block in fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:76:in `block (2 levels) in build_mounting_point'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:73:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:73:in `block in build_mounting_point'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:70:in `tap'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:70:in `build_mounting_point'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:29:in `run!'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon.rb:262:in `require_mounter'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon.rb:75:in `serve'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon/cli.rb:272:in `serve'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/bin/wagon:12:in `<top (required)>'
+	/Users/Adriano/.rbenv/versions/2.1.5/bin/wagon:23:in `load'
+	/Users/Adriano/.rbenv/versions/2.1.5/bin/wagon:23:in `<main>'
+
+
+(<unknown>): found character that cannot start any token while scanning for the next token at line 2 column 1
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse_stream'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:318:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:245:in `load'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/base.rb:57:in `read_yaml'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:22:in `block in fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:76:in `block (2 levels) in build_mounting_point'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:73:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:73:in `block in build_mounting_point'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:70:in `tap'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:70:in `build_mounting_point'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:29:in `run!'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon.rb:262:in `require_mounter'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon.rb:75:in `serve'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon/cli.rb:272:in `serve'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/bin/wagon:12:in `<top (required)>'
+	/Users/Adriano/.rbenv/versions/2.1.5/bin/wagon:23:in `load'
+	/Users/Adriano/.rbenv/versions/2.1.5/bin/wagon:23:in `<main>'
+
+
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+[0;97;49mStarted GET "/" at 2015-04-22 18:28:39 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 20.4ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-04-22 18:29:25 -0300
+[0;97;49mStarted GET "/" at 2015-04-22 18:29:27 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.7ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-04-22 18:29:44 -0300
+[0;97;49mStarted GET "/" at 2015-04-22 18:29:49 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.5ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-04-22 18:30:09 -0300
+* Reloaded "pages", "snippets" at 2015-04-22 18:30:11 -0300
+* Reloaded "pages", "snippets" at 2015-04-22 18:30:16 -0300
+[0;97;49mStarted GET "/" at 2015-04-22 18:30:19 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.7ms
+
+[0m
+* Reloaded "content_entries" at 2015-04-22 18:30:35 -0300
+* Reloaded "content_types", "content_entries" at 2015-04-22 18:31:04 -0300
+* Reloaded "content_types", "content_entries" at 2015-04-22 18:31:09 -0300
+[0;97;49mStarted GET "/" at 2015-04-22 18:31:11 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.6ms
+
+[0m
+* Reloaded "content_entries" at 2015-04-22 18:32:33 -0300
+* Reloaded "pages", "snippets" at 2015-04-22 18:32:42 -0300
+[0;97;49mStarted GET "/" at 2015-04-22 18:32:44 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.9ms
+
+[0m
+* Reloaded "content_entries" at 2015-04-22 18:32:55 -0300
+* Reloaded "content_types", "content_entries" at 2015-04-22 18:33:02 -0300
+[0;97;49mStarted GET "/" at 2015-04-22 18:33:04 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.6ms
+
+[0m
+* Reloaded "content_entries" at 2015-04-22 18:33:15 -0300
+[0;97;49mStarted GET "/" at 2015-04-22 18:33:21 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.4ms
+
+[0m
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+[0;97;49mStarted GET "/" at 2015-04-22 18:33:31 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 15.3ms
+
+[0m
+* Reloaded "content_entries" at 2015-04-22 18:33:54 -0300
+(<unknown>): did not find expected key while parsing a block mapping at line 1 column 3
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse_stream'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:318:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:245:in `load'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/base.rb:57:in `read_yaml'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:22:in `block in fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter.rb:99:in `with_locale'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon/listen.rb:41:in `block in apply'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `call'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `_process_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:246:in `block in _wait_for_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `loop'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `_wait_for_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:318:in `block in _start_wait_thread'
+
+
+[0;97;49mStarted GET "/" at 2015-04-22 18:33:56 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-04-22 18:34:25 -0300
+* Reloaded "pages", "snippets" at 2015-04-22 18:34:30 -0300
+[0;97;49mStarted GET "/" at 2015-04-22 18:34:32 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.7ms
+
+[0m
+* Reloaded "content_entries" at 2015-04-22 18:35:26 -0300
+* Reloaded "content_entries" at 2015-04-22 18:35:32 -0300
+* Reloaded "pages", "snippets" at 2015-04-22 18:35:51 -0300
+[0;97;49mStarted GET "/" at 2015-04-22 18:35:56 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.1ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-04-22 18:36:43 -0300
+[0;97;49mStarted GET "/" at 2015-04-22 18:36:52 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.5ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-04-22 18:37:02 -0300
+* Reloaded "pages", "snippets" at 2015-04-22 18:37:08 -0300
+[0;97;49mStarted GET "/" at 2015-04-22 18:37:12 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.2ms
+
+[0m
+* Reloaded "content_entries" at 2015-04-22 18:37:17 -0300
+* Reloaded "content_entries" at 2015-04-22 18:39:23 -0300
+[0;97;49mStarted GET "/" at 2015-04-22 18:39:27 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.3ms
+
+[0m
+* Reloaded "content_entries" at 2015-04-22 18:39:41 -0300
+* Reloaded "content_entries" at 2015-04-22 18:39:43 -0300
+[0;97;49mStarted GET "/" at 2015-04-22 18:39:46 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.7ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-04-22 18:40:44 -0300
+[0;97;49mStarted GET "/" at 2015-04-22 18:40:47 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.3ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-04-22 18:40:56 -0300
+* Reloaded "content_entries" at 2015-04-22 18:43:11 -0300
+* Reloaded "content_entries" at 2015-04-22 18:43:13 -0300
+[0;97;49mStarted GET "/" at 2015-04-22 18:43:30 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.5ms
+
+[0m
+* Reloaded "content_types", "content_entries" at 2015-04-22 18:45:16 -0300
+[0;97;49mStarted GET "/" at 2015-04-22 18:45:30 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.7ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-04-22 18:45:39 -0300
+* Reloaded "pages", "snippets" at 2015-04-22 18:45:41 -0300
+[0;97;49mStarted GET "/" at 2015-04-22 18:45:56 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.3ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-04-22 18:47:05 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.9ms
+
+[0m
+* Reloaded "content_entries" at 2015-04-22 18:48:23 -0300
+["/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/models/content_entry.rb:203:in `method_missing'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/models/content_type.rb:80:in `block (2 levels) in build_entry'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/models/content_type.rb:73:in `each'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/models/content_type.rb:73:in `block in build_entry'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/models/content_type.rb:68:in `tap'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/models/content_type.rb:68:in `build_entry'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:75:in `add'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:29:in `block (2 levels) in fetch_from_filesystem'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each_with_index'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `block in fetch_from_filesystem'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:40:in `each'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter.rb:99:in `with_locale'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:39:in `reload'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon/listen.rb:41:in `block in apply'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `call'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `_process_changes'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:246:in `block in _wait_for_changes'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `loop'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `_wait_for_changes'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:318:in `block in _start_wait_thread'"]
+The 'our_dna_icons' content type does not have a field named 'description'.
+The 'our_dna_icons' content type does not have a field named 'description'.
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/models/content_type.rb:86:in `rescue in block (2 levels) in build_entry'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/models/content_type.rb:74:in `block (2 levels) in build_entry'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/models/content_type.rb:73:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/models/content_type.rb:73:in `block in build_entry'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/models/content_type.rb:68:in `tap'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/models/content_type.rb:68:in `build_entry'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:75:in `add'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:29:in `block (2 levels) in fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each_with_index'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `block in fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter.rb:99:in `with_locale'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon/listen.rb:41:in `block in apply'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `call'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `_process_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:246:in `block in _wait_for_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `loop'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `_wait_for_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:318:in `block in _start_wait_thread'
+
+
+* Reloaded "content_entries" at 2015-04-22 18:48:35 -0300
+(<unknown>): did not find expected '-' indicator while parsing a block collection at line 1 column 1
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse_stream'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:318:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:245:in `load'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/base.rb:57:in `read_yaml'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:22:in `block in fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter.rb:99:in `with_locale'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon/listen.rb:41:in `block in apply'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `call'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `_process_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:246:in `block in _wait_for_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `loop'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `_wait_for_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:318:in `block in _start_wait_thread'
+
+
+* Reloaded "content_entries" at 2015-04-22 18:48:46 -0300
+(<unknown>): did not find expected '-' indicator while parsing a block collection at line 1 column 1
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse_stream'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:318:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:245:in `load'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/base.rb:57:in `read_yaml'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:22:in `block in fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter.rb:99:in `with_locale'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon/listen.rb:41:in `block in apply'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `call'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `_process_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:246:in `block in _wait_for_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `loop'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `_wait_for_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:318:in `block in _start_wait_thread'
+
+
+* Reloaded "content_entries" at 2015-04-22 18:48:53 -0300
+(<unknown>): did not find expected '-' indicator while parsing a block collection at line 1 column 1
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse_stream'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:318:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:245:in `load'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/base.rb:57:in `read_yaml'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:22:in `block in fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter.rb:99:in `with_locale'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon/listen.rb:41:in `block in apply'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `call'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `_process_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:246:in `block in _wait_for_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `loop'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `_wait_for_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:318:in `block in _start_wait_thread'
+
+
+[0;97;49mStarted GET "/" at 2015-04-22 18:48:56 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.1ms
+
+[0m
+* Reloaded "content_types", "content_entries" at 2015-04-22 18:49:19 -0300
+(<unknown>): did not find expected '-' indicator while parsing a block collection at line 1 column 1
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse_stream'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:318:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:245:in `load'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/base.rb:57:in `read_yaml'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:22:in `block in fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter.rb:99:in `with_locale'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon/listen.rb:41:in `block in apply'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `call'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `_process_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:246:in `block in _wait_for_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `loop'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `_wait_for_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:318:in `block in _start_wait_thread'
+
+
+[0;97;49mStarted GET "/" at 2015-04-22 18:49:21 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+[0;31;49m[ERROR] undefined method `each' for nil:NilClass - ./app/views/pages/index.liquid:5:in `Home page'
+[0m
+* Reloaded "pages", "snippets" at 2015-04-22 18:49:30 -0300
+[0;97;49mStarted GET "/" at 2015-04-22 18:49:31 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+[0;31;49m[ERROR] undefined method `each' for nil:NilClass - ./app/views/pages/index.liquid:5:in `Home page'
+[0m
+* Reloaded "content_entries" at 2015-04-22 18:49:51 -0300
+(<unknown>): did not find expected '-' indicator while parsing a block collection at line 1 column 1
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse_stream'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:318:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:245:in `load'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/base.rb:57:in `read_yaml'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:22:in `block in fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter.rb:99:in `with_locale'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon/listen.rb:41:in `block in apply'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `call'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `_process_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:246:in `block in _wait_for_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `loop'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `_wait_for_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:318:in `block in _start_wait_thread'
+
+
+* Reloaded "content_entries" at 2015-04-22 18:49:52 -0300
+(<unknown>): did not find expected '-' indicator while parsing a block collection at line 1 column 1
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse_stream'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:318:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:245:in `load'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/base.rb:57:in `read_yaml'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:22:in `block in fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter.rb:99:in `with_locale'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon/listen.rb:41:in `block in apply'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `call'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `_process_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:246:in `block in _wait_for_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `loop'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `_wait_for_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:318:in `block in _start_wait_thread'
+
+
+* Reloaded "content_entries" at 2015-04-22 18:49:53 -0300
+(<unknown>): did not find expected '-' indicator while parsing a block collection at line 1 column 1
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse_stream'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:318:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:245:in `load'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/base.rb:57:in `read_yaml'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:22:in `block in fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter.rb:99:in `with_locale'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon/listen.rb:41:in `block in apply'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `call'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `_process_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:246:in `block in _wait_for_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `loop'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `_wait_for_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:318:in `block in _start_wait_thread'
+
+
+* Reloaded "content_entries" at 2015-04-22 18:49:55 -0300
+(<unknown>): did not find expected key while parsing a block mapping at line 10 column 5
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse_stream'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:318:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:245:in `load'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/base.rb:57:in `read_yaml'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:22:in `block in fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter.rb:99:in `with_locale'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon/listen.rb:41:in `block in apply'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `call'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `_process_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:246:in `block in _wait_for_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `loop'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `_wait_for_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:318:in `block in _start_wait_thread'
+
+
+* Reloaded "content_entries" at 2015-04-22 18:49:58 -0300
+["/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/models/content_entry.rb:203:in `method_missing'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/models/content_type.rb:80:in `block (2 levels) in build_entry'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/models/content_type.rb:73:in `each'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/models/content_type.rb:73:in `block in build_entry'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/models/content_type.rb:68:in `tap'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/models/content_type.rb:68:in `build_entry'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:75:in `add'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:29:in `block (2 levels) in fetch_from_filesystem'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each_with_index'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `block in fetch_from_filesystem'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:40:in `each'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter.rb:99:in `with_locale'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:39:in `reload'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon/listen.rb:41:in `block in apply'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `call'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `_process_changes'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:246:in `block in _wait_for_changes'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `loop'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `_wait_for_changes'", "/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:318:in `block in _start_wait_thread'"]
+The 'our_dna_icons' content type does not have a field named 'description'.
+The 'our_dna_icons' content type does not have a field named 'description'.
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/models/content_type.rb:86:in `rescue in block (2 levels) in build_entry'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/models/content_type.rb:74:in `block (2 levels) in build_entry'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/models/content_type.rb:73:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/models/content_type.rb:73:in `block in build_entry'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/models/content_type.rb:68:in `tap'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/models/content_type.rb:68:in `build_entry'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:75:in `add'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:29:in `block (2 levels) in fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each_with_index'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `block in fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter.rb:99:in `with_locale'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon/listen.rb:41:in `block in apply'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `call'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `_process_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:246:in `block in _wait_for_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `loop'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `_wait_for_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:318:in `block in _start_wait_thread'
+
+
+[0;97;49mStarted GET "/" at 2015-04-22 18:50:00 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.5ms
+
+[0m
+* Reloaded "content_entries" at 2015-04-22 18:50:24 -0300
+* Reloaded "content_entries" at 2015-04-22 18:50:28 -0300
+[0;97;49mStarted GET "/" at 2015-04-22 18:50:30 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.8ms
+
+[0m
+* Reloaded "content_entries" at 2015-04-22 18:50:44 -0300
+* Reloaded "content_types", "content_entries" at 2015-04-22 18:50:51 -0300
+* Reloaded "content_types", "content_entries" at 2015-04-22 18:50:57 -0300
+* Reloaded "content_entries" at 2015-04-22 18:51:08 -0300
+[0;97;49mStarted GET "/" at 2015-04-22 18:51:10 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+[0;31;49m[ERROR] undefined method `secondary_description' for #<Locomotive::Mounter::Models::ContentEntry:0x007fb17dd04b30> - ./app/views/pages/index.liquid:5:in `Home page'
+[0m
+* Reloaded "pages", "snippets" at 2015-04-22 18:51:17 -0300
+[0;97;49mStarted GET "/" at 2015-04-22 18:51:19 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.7ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-04-22 18:52:01 -0300
+* Reloaded "content_types", "content_entries" at 2015-04-22 18:52:11 -0300
+[0;97;49mStarted GET "/" at 2015-04-22 18:52:13 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.0ms
+
+[0m
+* Reloaded "content_entries" at 2015-04-22 18:53:03 -0300
+(<unknown>): did not find expected key while parsing a block mapping at line 1 column 3
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:370:in `parse_stream'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:318:in `parse'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/2.1.0/psych.rb:245:in `load'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/base.rb:57:in `read_yaml'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:22:in `block in fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter.rb:99:in `with_locale'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon/listen.rb:41:in `block in apply'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `call'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `_process_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:246:in `block in _wait_for_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `loop'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `_wait_for_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:318:in `block in _start_wait_thread'
+
+
+[0;97;49mStarted GET "/" at 2015-04-22 18:53:04 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.3ms
+
+[0m
+* Reloaded "content_entries" at 2015-04-22 18:53:13 -0300
+* Reloaded "pages", "snippets" at 2015-04-22 18:53:34 -0300
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+[0;97;49mStarted GET "/" at 2015-04-22 18:54:36 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 22.4ms
+
+[0m
+* Reloaded "content_entries" at 2015-04-22 18:55:09 -0300
+[0;97;49mStarted GET "/" at 2015-04-22 18:55:12 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.6ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-04-22 18:55:14 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.2ms
+
+[0m
+* Reloaded "content_entries" at 2015-04-22 18:55:23 -0300
+* Reloaded "content_entries" at 2015-04-22 18:58:31 -0300
+[0;97;49mStarted GET "/" at 2015-04-22 18:58:37 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.8ms
+
+[0m
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+[0;97;49mStarted GET "/" at 2015-04-22 18:59:07 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 18.9ms
+
+[0m
+* Reloaded "content_types", "content_entries" at 2015-04-22 18:59:36 -0300
+* Reloaded "pages", "snippets" at 2015-04-22 19:00:08 -0300
+* Reloaded "pages", "snippets" at 2015-04-22 19:00:26 -0300
+[0;97;49mStarted GET "/" at 2015-04-22 19:00:29 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.0ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-04-22 19:00:37 -0300
+[0;97;49mStarted GET "/" at 2015-04-22 19:00:39 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.4ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-04-22 19:00:46 -0300
+* Reloaded "pages", "snippets" at 2015-04-22 19:01:22 -0300
+[0;97;49mStarted GET "/" at 2015-04-22 19:01:39 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.5ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-04-22 19:01:50 -0300
+[0;97;49mStarted GET "/" at 2015-04-22 19:01:57 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.3ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-04-22 19:02:09 -0300
+* Reloaded "pages", "snippets" at 2015-04-22 19:02:10 -0300
+* Reloaded "content_entries" at 2015-04-22 19:03:22 -0300
+* Reloaded "content_entries" at 2015-04-22 19:03:34 -0300
+[0;97;49mStarted GET "/" at 2015-04-22 19:03:38 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.0ms
+
+[0m

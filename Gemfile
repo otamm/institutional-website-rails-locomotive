@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+ruby "2.1.5"
+
 gem 'locomotivecms_wagon', '1.5.4'
 
 group :development do
