@@ -8,6 +8,8 @@ gem 'sass'
 
 gem 'sprockets-sass'
 
+gem 'bourbon'
+
 group :development do
   # Mac OS X
   gem 'rb-fsevent', '~> 0.9.1', require: RUBY_PLATFORM.include?('darwin') && 'rb-fsevent'

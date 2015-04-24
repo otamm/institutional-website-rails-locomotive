@@ -3680,3 +3680,264 @@ Detecting locale EN
 [0;32;49mCompleted 404 Not Found in 7.6ms
 
 [0m
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+[0;97;49mStarted GET "/" at 2015-04-24 19:21:11 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered snippet gmaps
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 23.8ms
+
+[0m
+[0;97;49mStarted GET "/public/scripts/main.js" at 2015-04-24 19:21:11 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.2ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-04-24 19:21:27 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered snippet gmaps
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.4ms
+
+[0m
+[0;97;49mStarted GET "/public/scripts/main.js" at 2015-04-24 19:21:27 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 0.7ms
+
+[0m
+[0;97;49mStarted GET "/bower_components/swiper/dist/css/swiper.min.css" at 2015-04-24 19:21:28 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.1ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-04-24 19:21:37 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered snippet gmaps
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.1ms
+
+[0m
+[0;97;49mStarted GET "/public/scripts/main.js" at 2015-04-24 19:21:37 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.9ms
+
+[0m
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+[0;97;49mStarted GET "/" at 2015-04-24 19:26:17 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered snippet gmaps
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 24.6ms
+
+[0m
+[0;97;49mStarted GET "/public/scripts/main.js" at 2015-04-24 19:26:17 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.4ms
+
+[0m
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+[0;97;49mStarted GET "/" at 2015-04-24 19:28:16 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered snippet gmaps
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 17.7ms
+
+[0m
+[0;97;49mStarted GET "/public/scripts/main.js" at 2015-04-24 19:28:16 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 5.2ms
+
+[0m
+[0;97;49mStarted GET "/bower_components/swiper/dist/css/swiper.min.css" at 2015-04-24 19:28:17 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 0.9ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-04-24 19:28:38 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered snippet gmaps
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 4.0ms
+
+[0m
+[0;97;49mStarted GET "/public/scripts/main.js" at 2015-04-24 19:28:38 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 38.5ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-04-24 19:29:16 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered snippet gmaps
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.6ms
+
+[0m
+[0;97;49mStarted GET "/public/scripts/main.js" at 2015-04-24 19:29:16 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.8ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-04-24 19:29:34 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered snippet gmaps
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.8ms
+
+[0m
+[0;97;49mStarted GET "/public/scripts/main.js" at 2015-04-24 19:29:34 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 23.3ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-04-24 19:29:45 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered snippet gmaps
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.0ms
+
+[0m
+[0;97;49mStarted GET "/public/scripts/main.js" at 2015-04-24 19:29:45 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 9.6ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-04-24 19:29:56 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered snippet gmaps
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.5ms
+
+[0m
+[0;97;49mStarted GET "/public/scripts/main.js" at 2015-04-24 19:29:56 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 23.4ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-04-24 19:30:18 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered snippet gmaps
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.6ms
+
+[0m
+[0;97;49mStarted GET "/public/scripts/main.js" at 2015-04-24 19:30:18 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 5.7ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-04-24 19:30:29 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered snippet gmaps
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.4ms
+
+[0m
+[0;97;49mStarted GET "/public/scripts/main.js" at 2015-04-24 19:30:29 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.5ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-04-24 19:30:47 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered snippet gmaps
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.5ms
+
+[0m
+[0;97;49mStarted GET "/public/scripts/main.js" at 2015-04-24 19:30:47 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 35.8ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-04-24 19:31:20 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered snippet gmaps
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 4.4ms
+
+[0m
+[0;97;49mStarted GET "/public/scripts/main.js" at 2015-04-24 19:31:21 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 4.0ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-04-24 19:31:38 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered snippet gmaps
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.2ms
+
+[0m
+[0;97;49mStarted GET "/public/scripts/main.js" at 2015-04-24 19:31:38 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 11.5ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-04-24 19:31:51 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered snippet gmaps
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.4ms
+
+[0m
+[0;97;49mStarted GET "/public/scripts/main.js" at 2015-04-24 19:31:51 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 5.2ms
+
+[0m
+[0;97;49mStarted GET "/bower_components/swiper/dist/css/swiper.min.css" at 2015-04-24 19:31:51 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.2ms
+
+[0m
