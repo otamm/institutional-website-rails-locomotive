@@ -4,6 +4,10 @@ ruby "2.1.5"
 
 gem 'locomotivecms_wagon', '1.5.4'
 
+gem 'sass'
+
+gem 'sprockets-sass'
+
 group :development do
   # Mac OS X
   gem 'rb-fsevent', '~> 0.9.1', require: RUBY_PLATFORM.include?('darwin') && 'rb-fsevent'

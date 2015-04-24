@@ -148,3 +148,5 @@ DEPENDENCIES
   locomotivecms_wagon (= 1.5.4)
   rb-fsevent (~> 0.9.1)
   rb-inotify (~> 0.9)
+  sass
+  sprockets-sass

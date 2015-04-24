@@ -1,26 +1,29 @@
 /**
  * Parallax
  */
-function init_map(){
-    var myOptions = {
-        scrollwheel: false,
-        zoom:16,
-        center:new google.maps.LatLng(-23.5545354,-46.6641391),
-        mapTypeId: google.maps.MapTypeId.ROADMAP
-    };
+// function gmaps() {
+    function init_map(){
+        var myOptions = {
+            scrollwheel: false,
+            zoom:16,
+            center:new google.maps.LatLng(-23.5545354,-46.6641391),
+            mapTypeId: google.maps.MapTypeId.ROADMAP
+        };
 
-    map = new google.maps.Map(document.getElementById("gmap_canvas"), myOptions);
-    marker = new google.maps.Marker({
-        map: map,position: new google.maps.LatLng(-23.5545354, -46.6641391)}
-    );
-    infowindow = new google.maps.InfoWindow({
-        content:"<b>KiddoLabs</b><br/>Av. Paulista, 3681 <br/>03785-192 S&atilde;o Paulo" 
-    });
-    google.maps.event.addListener(marker, "click", function(){infowindow.open(map,marker);});
-    infowindow.open(map,marker);
-}
+        map = new google.maps.Map(document.getElementById("gmap_canvas"), myOptions);
+        marker = new google.maps.Marker({
+            map: map,position: new google.maps.LatLng(-23.5545354, -46.6641391)}
+        );
+        infowindow = new google.maps.InfoWindow({
+            content:"<b>KiddoLabs</b><br/>Av. Paulista, 3681 <br/>03785-192 S&atilde;o Paulo" 
+        });
+        google.maps.event.addListener(marker, "click", function(){infowindow.open(map,marker);});
+        infowindow.open(map,marker);
+    }
 
-google.maps.event.addDomListener(window, 'load', init_map);
+    google.maps.event.addDomListener(window, 'load', init_map);
+    //console.log("AAAA");
+//}
 
 // /**
 //  * Parallax

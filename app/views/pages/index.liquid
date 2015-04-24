@@ -7,8 +7,10 @@ published: true
   <head>
     <meta charset="utf-8">
     <title>{{ site.name }}</title>
-    <meta name="keywords" value="{{ site.meta_keywords }}" />
-    <meta name="description" value="{{ site.meta_description }}" />
+    <meta name="keywords" value="{{ site.meta_keywords }}"/>
+    <meta name="description" value="{{ site.meta_description }}"/>
+    <!--<link rel="stylesheet" type="text/css" href="./public/stylesheets/main.css"/>-->
+    {{ 'main.css' | stylesheet_tag }}
   </head>
   <body>
     <h1>{{ page.title }}</h1>
@@ -17,4 +19,8 @@ published: true
     {% include 'our_dna' %}
     {% include 'gmaps' %}
   </body>
+  <script src="./public/scripts/main.js">
+  <script src="./public/scripts/modalEffects.js">
+  <script src="./public/scripts/classie.js">
+  <script src="./public/scripts/home.js">
 </html>
