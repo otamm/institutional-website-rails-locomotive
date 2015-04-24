@@ -1,0 +1,29 @@
+@mixin after-before {
+	position: absolute;
+	content: '';
+	pointer-events: none;
+}
+@mixin bt-primary {
+	max-width: 50%;
+	line-height: 30px;
+	min-height: 30px;
+	padding: 10px;
+	background-color: transparent;
+  	border: 2px solid #ffffff;
+  	border-radius: 2px;
+  	font-size: 14px;
+  	font-weight: normal;
+  	text-transform: uppercase;
+  	text-align: center;
+  	.fa {
+  		font-weight: normal;
+  		font-size: 14px;
+		margin-left: 15px;
+  	}
+}
+
+@mixin backg-dna-box {
+  background-position: top center;
+  background-repeat: no-repeat;
+  min-height: 150px;
+}

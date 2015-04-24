@@ -1,0 +1,27 @@
+// bower:scss
+@import "../../bower_components/bourbon/dist/_bourbon.scss";
+@import "../../bower_components/neat/app/assets/stylesheets/_neat.scss";
+// endbower 
+
+
+//normalize
+@import "utils/normalize.scss";
+
+// fonts:
+@import "utils/fonts.scss";
+
+// variables
+@import "_variables.scss";
+
+// Mixins 
+@import "_mixin.scss";
+
+// home
+@import "_home.scss";
+
+// Kiddo Swiper
+@import "_kiddo-swiper.scss";
+
+// ui elements
+@import "_ui.scss";
+

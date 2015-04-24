@@ -1,0 +1,78 @@
+/**
+* UI
+**/
+h1 {
+	font-size: $h1;
+}
+
+h2 {
+	font-size: $h2;
+}
+
+h3 {
+	font-size: $h3;
+}
+
+h4 {
+	font-size: 	$h4;
+}
+.hide-xs {
+		display: block;
+}
+@include media($mobile) {
+	body {
+		font-size: 13px;
+	}
+	.hide-xs {
+		display: none;
+	}
+}
+@include media($tablet) {
+	#menu {
+		display: block;
+	}
+	ul.kiddo-menu {
+	text-align: right;
+		li {
+			background: transparent;
+			display: inline;
+			line-height: 60px;
+			text-decoration: none;
+			width: auto;
+			margin-left: 1%;
+		}
+	}
+	.contact {
+		a {
+				color: #333;
+			}
+		a {
+			border: none;
+			padding: 5px 20px;
+			color: #fff;
+			display: inlie-block;
+			&:hover {
+				background: #fff;
+				color: #333;
+			}	
+		}	
+	}
+}
+@include media($desktop) {
+	.hide-lg {
+		display: none;
+	}
+	#menu {
+		display: block;
+	}
+}
+
+
+/** Modal **/
+.md-trigger {
+	display: block;
+
+	@include media($desktop) {
+		display: none;
+	}
+}

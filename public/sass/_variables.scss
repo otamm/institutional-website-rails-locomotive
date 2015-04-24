@@ -1,0 +1,95 @@
+
+$linkColor: #4183C4;
+$hoverColor: lighten($linkColor, 10);
+$borderColor: #b3b3b3;
+
+// Font Sizes
+$base-font-size: 1em;
+$font-size-small: 0.9em;
+$font-size-regular: 1.2em;
+$font-size-large: 1.8em;
+$font-size-x-large: 2.5em;
+$font-size-xx-large: 4.9em;
+$h1: $font-size-x-large;
+$h2: $font-size-large;
+$h3: $font-size-regular;
+$h4: $font-size-small;
+$em-base: 14px;
+
+// Line height
+$base-line-height: 1.5;
+$heading-line-height: 1.2;
+
+// Other Sizes
+$base-spacing: $base-line-height * 0.2em;
+$small-spacing: $base-spacing / 2;
+$base-z-index: 0;
+
+// Colors
+$blue: 					#477dca;
+$dark-gray: 			#55585f;
+$medium-gray: 			#999;
+$light-gray: 			#aaaaaa;
+$light-menu: 			#fcfcff; 
+$span-home: 			#4d4d4d;
+$black:                 #111111;
+$blue-home:             #2fb3d1;
+$gray:                  #999999;
+$green:                 #18afa9;
+$red:                   #9d261d;
+$yellow:                #f5d312;
+$dark-yellow:			#cbb015;
+$darkness-yellow:		#ac8a0e;
+$dark-logo-footer:		#9f8a0e;
+$orange:                #da6b11;
+$pink:                  #c3325f;
+$purple:                #8c5cb1;
+$dark-purple:			#7a4e9b;
+$darkness-purple:		#78469e;
+$light-purple:			#906bc4;
+$white:                 #ffffff;
+$menu-mobile:			#3a3a3b;
+$trasparent:			transparent;
+
+// Font Colors
+$base-font-color: $dark-gray;
+$action-color: $blue;
+
+// Border
+$base-border-color: $light-gray;
+$base-border: 1px solid $base-border-color;
+$base-border-kiddo: 5px solid #4d4d4d;
+$base-border-radius: 3px;
+$base-input-border-radius: 2px;
+
+// Reset Padding
+$pad-top: 0;
+
+// Padding's
+$pad-left: 5%;
+$pad-bottom: 5%;
+
+// FLoat's
+$flt-lft: left;
+
+// Background Colors
+$base-background-color: #fff;
+$secondary-background-color: lighten($base-border-color, 10%);
+
+// images
+$img-width: 100%;
+
+// Forms
+$form-box-shadow: inset 0 1px 3px rgba(#000, 0.06);
+$form-box-shadow-focus: $form-box-shadow, 0 0 5px adjust-color($action-color, $lightness: -5%, $alpha: -0.3);
+
+// footer links
+$footer-links: $dark-yellow;
+$footer-hoverColor: lighten($darkness-yellow, 10);
+
+//**** Breakpoints ****
+$desktop: min-width 850px;
+$tablet: min-width 500px;
+$tablet-only: min-width 750px max-width 849px;
+$mobile-only: max-width 749px;
+$mobile: new-breakpoint(max-width 500px 4);
