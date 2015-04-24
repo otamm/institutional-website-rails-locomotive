@@ -36,7 +36,7 @@
 //     });
 // });     
 
-    <!-- Initialize Swiper -->
+    //<!-- Initialize Swiper -->
 
     var galleryTop = new Swiper('.gallery-top', {
         nextButton: '.swiper-button-next',
