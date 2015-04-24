@@ -8,7 +8,7 @@ slug: our_dna_icons
 description: Icon image plus a main and a secondary description for the meaning of this icon.
 
 # Slug of field used to identify entries by default, such as the title
-label_field_name: main_description
+# label_field_name: main_description
 
 # Valid values: manually, created_at, updated_at, or the slug of any field
 order_by: manually
@@ -41,7 +41,7 @@ fields:
     hint: Give a main description to the intended meaning of the icon image.
     localized: true #;;; each language will have a different value.
 
-- minitexthere: # The lowercase, underscored name of the field
+- secondary_description: # The lowercase, underscored name of the field
     label: minitexthere # Human readable name of the field
     type: text
     required: true

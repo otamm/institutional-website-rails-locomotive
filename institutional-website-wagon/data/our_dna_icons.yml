@@ -1,10 +1,6 @@
-- "Multi-task, high-skilled":
-  minitexthere: "Small team, great performance."
-
-
-- "Eye of the Tiger":
-  minitexthere: 'We are hungry and restless millenials.'
-
-
-- "Earthquake Pills":
-  minitexthere: 'Why wait? Make your own earthquakes––loads of fun!'
+- "Multi-task, highly-skilled": {secondary_description: "Small team, great performance"}
+- "Eye of the Tiger": {secondary_description: "We are hungry and restless millenials"}
+- "Your business, our position": {secondary_description: "We're part of it, we're in your shoes"}
+- "Rapid and nimble": {secondary_description: "With zero bureaucracy, things get done"}
+- "Believe in it? Prove it!": {secondary_description: "Rapid prototyping is the key"}
+- "Hard-studying enthusiasts": {secondary_description: "Always studying, always improving"}
