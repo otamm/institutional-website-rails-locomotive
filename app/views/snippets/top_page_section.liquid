@@ -1,21 +1,27 @@
 ---
-title: Top page section
-
-# position among sibling pages
-# position: 1
-
-# sets a redirection to the given url (301)
-# redirect_url: "<url to a page or to a remote url>"
-
-# content type that this page is templatizing
-# content_type: "<slug of one of the content types>"
-
 editable-elements:
 #   'some_block/some_slug': "<text>"
 #   'some_block/some_slug': "<relative path to the file under the public/samples folder>"
     'main-link': Contact
     'main-link-url': www.youtube.com
+    'main-str-1-l1': HEL
+    'main-str-1-l2': LO
+    'main-str-2-l2': THERE
+    'title1': KIDDO
+    'title2': LABS
 ---
+  <h3 id="yellow-title">{{title1}}</h3><h3 id="black-title">{{title2}}</h3>
+    <ul id="header-links">
+      {% for link in contents.headerlinks %}
+        <li><a href="{{ link.redirect }}">{{ link.title }}</a></li>
+      {% endfor %}
+        <li><a href="{{ editable_text "main-link-url", format: "raw", hint: "The url for the main top link" }}www.youtube.com{{endeditable_text}}" id="main-link">
+        {{ editable_text "main-link", format: "raw", hint: "The label for the main top link" }}CONTACT{{endeditable_text}}</a>
+    </ul>
+
+<h1>{{ editable_text "main-str-1-l1", format: "raw", hint: "First line of top page label using font A."}}HEL{{endeditable_text}}</h1></br>
+<h1>{{ editable_text "main-str-1-l2", format: "raw", hint: "Second line of top page label using font A."}}LO{{endeditable_text}}</h1><h1>{{ editable_text "main-str-2-l2", format: "raw", hint: "Second line of top page label using font B."}} THERE{{endeditable_text}}</h1></br></br>
+
 {% block 'featured_photo' %}
   {% capture caption %}
     {% editable_text "caption", format: "raw", rows: 3, hint: "Text displayed below the photo and in the ALT attribute." %}
@@ -35,7 +41,8 @@ editable-elements:
       {% for link in contents.headerlinks %}
         <li><a href="{{ link.redirect }}">{{ link.title }}</a></li>
       {% endfor %}
-        <li><a href="{{ editable_text "main-link-url", format: "raw", hint: "The url for the main top link" }}www.youtube.com{{endeditable_text}}">{{ editable_text "main-link", format: "raw", hint: "The label for the main top link" }}CONTACT{{endeditable_text}}</a>
+        <li><a href="{{ editable_text "main-link-url", format: "raw", hint: "The url for the main top link" }}www.youtube.com{{endeditable_text}}">
+        {{ editable_text "main-link", format: "raw", hint: "The label for the main top link" }}CONTACT{{endeditable_text}}</a>
     </ul>
     <p>{{ caption }}</p>
   </div>
