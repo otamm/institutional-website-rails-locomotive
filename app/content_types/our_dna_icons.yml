@@ -42,8 +42,13 @@ fields:
     localized: true #;;; each language will have a different value.
 
 - secondary_description: # The lowercase, underscored name of the field
-    label: minitexthere # Human readable name of the field
+    label: Secondary Description # Human readable name of the field
     type: text
     required: true
     hint: Briefly expand the main description.
     localized: true
+- icon_image_path:
+    label: Icon Image
+    type: file
+    required: false
+    hint: Set the icon image.

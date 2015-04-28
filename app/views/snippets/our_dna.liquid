@@ -8,6 +8,9 @@
 	{% endeditable_text %}</h4>
 
 	{% for icon in contents.our_dna_icons %}
+		{% if icon.icon_image_path.url %}
+			<img src="{{icon.icon_image_path.url | resize: '400x200#'}}" />
+		{% endif %}
 		<h3><strong>{{ icon.main_description }}</strong></h3></br>	 
 		<h4>{{ icon.secondary_description }}</h4>
 	{% endfor %}

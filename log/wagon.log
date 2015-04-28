@@ -4596,3 +4596,129 @@ Detecting locale EN
 [0;32;49mCompleted 404 Not Found in 2.2ms
 
 [0m
+* Reloaded "content_types", "content_entries" at 2015-04-28 15:13:55 -0300
+* Reloaded "content_types", "content_entries" at 2015-04-28 15:14:28 -0300
+* Reloaded "content_types", "content_entries" at 2015-04-28 15:14:34 -0300
+* Reloaded "pages", "snippets" at 2015-04-28 15:15:17 -0300
+* Reloaded "pages", "snippets" at 2015-04-28 15:16:08 -0300
+* Reloaded "pages", "snippets" at 2015-04-28 15:16:10 -0300
+* Reloaded "pages", "snippets" at 2015-04-28 15:16:22 -0300
+* Reloaded "pages", "snippets" at 2015-04-28 15:16:34 -0300
+* Reloaded "pages", "snippets" at 2015-04-28 15:16:41 -0300
+* Reloaded "pages", "snippets" at 2015-04-28 15:16:49 -0300
+* Reloaded "pages", "snippets" at 2015-04-28 15:17:14 -0300
+* Reloaded "pages", "snippets" at 2015-04-28 15:17:39 -0300
+* Reloaded "pages", "snippets" at 2015-04-28 15:17:46 -0300
+* Reloaded "pages", "snippets" at 2015-04-28 15:17:48 -0300
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+[0;97;49mStarted GET "/" at 2015-04-28 15:17:51 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered snippet gmaps
+  Rendered snippet contact_us
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 23.2ms
+
+[0m
+[0;97;49mStarted GET "/bower_components/swiper/dist/css/swiper.min.css" at 2015-04-28 15:17:52 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 0.9ms
+
+[0m
+* Reloaded "content_entries" at 2015-04-28 15:20:42 -0300
+[0;97;49mStarted GET "/" at 2015-04-28 15:20:47 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered snippet gmaps
+  Rendered snippet contact_us
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.0ms
+
+[0m
+[0;97;49mStarted GET "/bower_components/swiper/dist/css/swiper.min.css" at 2015-04-28 15:20:47 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.0ms
+
+[0m
+* Reloaded "content_entries" at 2015-04-28 15:20:56 -0300
+* Reloaded "content_entries" at 2015-04-28 15:20:59 -0300
+[0;97;49mStarted GET "/" at 2015-04-28 15:21:01 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered snippet gmaps
+  Rendered snippet contact_us
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 11.9ms
+
+[0m
+[0;97;49mStarted GET "/bower_components/swiper/dist/css/swiper.min.css" at 2015-04-28 15:21:01 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 4.2ms
+
+[0m
+* Reloaded "content_entries" at 2015-04-28 15:21:15 -0300
+[0;97;49mStarted GET "/" at 2015-04-28 15:21:18 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered snippet gmaps
+  Rendered snippet contact_us
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.2ms
+
+[0m
+[0;97;49mStarted GET "/bower_components/swiper/dist/css/swiper.min.css" at 2015-04-28 15:21:18 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.8ms
+
+[0m
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+[0;97;49mStarted GET "/" at 2015-04-28 15:21:27 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered snippet gmaps
+  Rendered snippet contact_us
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 24.5ms
+
+[0m
+[0;97;49mStarted GET "/bower_components/swiper/dist/css/swiper.min.css" at 2015-04-28 15:21:27 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 4.5ms
+
+[0m
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+[0;97;49mStarted GET "/" at 2015-04-28 15:22:10 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered snippet gmaps
+  Rendered snippet contact_us
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 20.0ms
+
+[0m
+[0;97;49mStarted GET "/bower_components/swiper/dist/css/swiper.min.css" at 2015-04-28 15:22:11 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 0.9ms
+
+[0m

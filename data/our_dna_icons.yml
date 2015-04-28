@@ -1,5 +1,5 @@
-- "Multi-task, highly-skilled": {secondary_description: "Small team, great performance"}
-- "Eye of the Tiger": {secondary_description: "We are hungry and restless millenials"}
+- "Multi-task, highly-skilled": {secondary_description: "Small team, great performance", icon_image_path: samples/images/favicon/favicon-128.png}
+- "Eye of the Tiger": {secondary_description: "We are hungry and restless millenials", icon_image_path: samples/our_dna_icons/icon1.png}
 - "Your business, our position": {secondary_description: "We're part of it, we're in your shoes"}
 - "Rapid and nimble": {secondary_description: "With zero bureaucracy, things get done"}
 - "Believe in it? Prove it!": {secondary_description: "Rapid prototyping is the key"}
