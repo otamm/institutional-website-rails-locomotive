@@ -1,13 +1,14 @@
+<section id="">
+	<h2>{% editable_text "our_dna_section_title", hint: "Title for the section which presents the company." %}
+		Our DNA
+	{% endeditable_text %}</h2></br>
 
-<h2>{% editable_text "our_dna_section_title", hint: "Title for the section which presents the company." %}
-	Our DNA
-{% endeditable_text %}</h2></br>
+	<h4>{% editable_text "our_dna_section_description", hint: "Brief description of the company." %}
+		We're a small studio of strategists, designers, programmers, marketeers, lawyers but, above all, of artists and entrepreneurs.
+	{% endeditable_text %}</h4>
 
-<h4>{% editable_text "our_dna_section_description", hint: "Brief description of the company." %}
-	We're a small studio of strategists, designers, programmers, marketeers, lawyers but, above all, of artists and entrepreneurs.
-{% endeditable_text %}</h4>
-
-{% for icon in contents.our_dna_icons %}
-	<h3><strong>{{ icon.main_description }}</strong></h3></br>	 
-	<h4>{{ icon.secondary_description }}</h4>
-{% endfor %}
+	{% for icon in contents.our_dna_icons %}
+		<h3><strong>{{ icon.main_description }}</strong></h3></br>	 
+		<h4>{{ icon.secondary_description }}</h4>
+	{% endfor %}
+</section>

@@ -1,4 +1,30 @@
-{% raw %}
-<!-- To use your snippet, just add the following code in your page template-->
-<!-- {% include contact_us %} -->
-{% endraw %}
+<form method="POST" action="{{contents.customer_messages.public_submission_url}}">
+      {% csrf_param %}
+      <input type="hidden" value="/" name="success_callback" />
+      <input type="hidden" value="/contact" name="error_callback" />
+
+      {% if customer_message.errors %}
+        <p>The following errors occured:</p>
+        <ul>
+        {% for error in customer_message.errors %}
+          <li>{{error[0] | capitalize}} -  {{error[1]}}</li>
+        {% endfor %}
+        </ul>
+      {% endif %}
+
+      <ul>
+        <ul>
+          <li>{{ 'contact_form_name_label' | translate }}:</li>
+          <li><input type="text" name="content[name]" placeholder="{{ 'contact_form_name_placeholder' | translate }}" value="{{customer_message.name}}"></li>
+        </ul>
+        <ul>
+          <li>E-mail:</li>
+          <li><input type="text" name="content[email]" placeholder="{{'contact_form_email_placeholder' | translate}}" value="{{customer_message.email}}"></li>
+        </ul>
+        <ul>
+          <li>{{'contact_form_message_label' | translate}}:</li>
+          <li><textarea placeholder="{{'contact_form_message_placeholder' | translate}}" name="content[message]">{{customer_message.message}}</textarea></li>
+        </ul>
+      </ul>
+      <input type="submit">
+    </form>

@@ -6,3 +6,17 @@
 # hello_world:
 #   en: Hello world !
 #   fr: Bonjour le monde !
+contact_form_name_label:
+    en: Name
+
+contact_form_name_placeholder:
+    en: Insert your first and last names here...
+
+contact_form_email_placeholder:
+    en: Insert your e-mail address you'd like to receive an answer...
+
+contact_form_message_label:
+    en: Message
+
+contact_form_message_placeholder:
+    en: Your message...
