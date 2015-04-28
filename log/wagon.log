@@ -4302,3 +4302,297 @@ Detecting locale EN
 [0m
 * Reloaded "pages", "snippets" at 2015-04-28 12:47:16 -0300
 * Reloaded "pages", "snippets" at 2015-04-28 12:47:20 -0300
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+[0;97;49mStarted GET "/" at 2015-04-28 14:38:56 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered snippet gmaps
+  Rendered snippet contact_us
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 23.4ms
+
+[0m
+[0;97;49mStarted GET "/bower_components/swiper/dist/css/swiper.min.css" at 2015-04-28 14:38:56 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 7.2ms
+
+[0m
+[0;97;49mStarted GET "/pt-BR" at 2015-04-28 14:39:02 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.4ms
+
+[0m
+* Reloaded "content_types", "content_entries" at 2015-04-28 14:40:10 -0300
+undefined method `[]' for false:FalseClass
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_types_reader.rb:36:in `add'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_types_reader.rb:24:in `block in fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_types_reader.rb:21:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_types_reader.rb:21:in `fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_types_reader.rb:13:in `read'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter.rb:99:in `with_locale'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon/listen.rb:41:in `block in apply'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `call'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `_process_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:246:in `block in _wait_for_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `loop'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `_wait_for_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:318:in `block in _start_wait_thread'
+
+
+* Reloaded "content_entries" at 2015-04-28 14:40:20 -0300
+unknow content type "footer_data"
+unknow content type "footer_data"
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:45:in `block in get_content_type'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:43:in `tap'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:43:in `get_content_type'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:24:in `block in fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter.rb:99:in `with_locale'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon/listen.rb:41:in `block in apply'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `call'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `_process_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:246:in `block in _wait_for_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `loop'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `_wait_for_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:318:in `block in _start_wait_thread'
+
+
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-04-28 14:40:36 -0300
+undefined method `[]' for false:FalseClass
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_types_reader.rb:36:in `add'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_types_reader.rb:24:in `block in fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_types_reader.rb:21:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_types_reader.rb:21:in `fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_types_reader.rb:13:in `read'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter.rb:99:in `with_locale'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon/listen.rb:41:in `block in apply'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `call'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `_process_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:246:in `block in _wait_for_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `loop'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `_wait_for_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:318:in `block in _start_wait_thread'
+
+
+* Reloaded "pages", "snippets" at 2015-04-28 14:41:00 -0300
+* Reloaded "pages", "snippets" at 2015-04-28 14:41:01 -0300
+* Reloaded "pages", "snippets" at 2015-04-28 14:41:09 -0300
+[0;97;49mStarted GET "/" at 2015-04-28 14:41:13 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered snippet gmaps
+  Rendered snippet contact_us
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.3ms
+
+[0m
+[0;97;49mStarted GET "/bower_components/swiper/dist/css/swiper.min.css" at 2015-04-28 14:41:13 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 6.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-04-28 14:42:19 -0300
+* Reloaded "pages", "snippets" at 2015-04-28 14:42:22 -0300
+* Reloaded "pages", "snippets" at 2015-04-28 14:42:31 -0300
+* Reloaded "content_types", "content_entries" at 2015-04-28 14:44:22 -0300
+unknow content type "footer_data"
+unknow content type "footer_data"
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:45:in `block in get_content_type'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:43:in `tap'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:43:in `get_content_type'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:24:in `block in fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter.rb:99:in `with_locale'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.5.3/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.5.4/lib/locomotive/wagon/listen.rb:41:in `block in apply'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `call'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `_process_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:246:in `block in _wait_for_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `loop'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `_wait_for_changes'
+	/Users/Adriano/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.12/lib/listen/listener.rb:318:in `block in _start_wait_thread'
+
+
+* Reloaded "content_entries" at 2015-04-28 14:44:27 -0300
+[0;97;49mStarted GET "/" at 2015-04-28 14:44:34 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered snippet gmaps
+  Rendered snippet contact_us
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.3ms
+
+[0m
+[0;97;49mStarted GET "/bower_components/swiper/dist/css/swiper.min.css" at 2015-04-28 14:44:34 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.5ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-04-28 14:45:07 -0300
+* Reloaded "pages", "snippets" at 2015-04-28 14:45:18 -0300
+* Reloaded "pages", "snippets" at 2015-04-28 14:45:38 -0300
+* Reloaded "pages", "snippets" at 2015-04-28 14:46:11 -0300
+* Reloaded "pages", "snippets" at 2015-04-28 14:46:36 -0300
+* Reloaded "pages", "snippets" at 2015-04-28 14:47:06 -0300
+* Reloaded "pages", "snippets" at 2015-04-28 14:47:19 -0300
+[0;97;49mStarted GET "/" at 2015-04-28 14:47:23 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered snippet gmaps
+  Rendered snippet contact_us
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.3ms
+
+[0m
+[0;97;49mStarted GET "/bower_components/swiper/dist/css/swiper.min.css" at 2015-04-28 14:47:23 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-04-28 14:48:16 -0300
+[0;97;49mStarted GET "/" at 2015-04-28 14:49:37 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered snippet gmaps
+  Rendered snippet contact_us
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.6ms
+
+[0m
+[0;97;49mStarted GET "/bower_components/swiper/dist/css/swiper.min.css" at 2015-04-28 14:49:37 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.1ms
+
+[0m
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-04-28 14:50:02 -0300
+[0;97;49mStarted GET "/" at 2015-04-28 14:50:04 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered snippet gmaps
+  Rendered snippet contact_us
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.3ms
+
+[0m
+[0;97;49mStarted GET "/bower_components/swiper/dist/css/swiper.min.css" at 2015-04-28 14:50:04 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.2ms
+
+[0m
+[0;97;49mStarted GET "/pt-BR" at 2015-04-28 14:50:09 -0300[0m
+Detecting locale PT-BR
+Found page "" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered snippet gmaps
+  Rendered snippet contact_us
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 11.6ms
+
+[0m
+[0;97;49mStarted GET "/bower_components/swiper/dist/css/swiper.min.css" at 2015-04-28 14:50:09 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.2ms
+
+[0m
+[0;97;49mStarted GET "/en" at 2015-04-28 14:50:31 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered snippet gmaps
+  Rendered snippet contact_us
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 9.9ms
+
+[0m
+[0;97;49mStarted GET "/bower_components/swiper/dist/css/swiper.min.css" at 2015-04-28 14:50:31 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.1ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-04-28 14:51:29 -0300
+* Reloaded "pages", "snippets" at 2015-04-28 14:51:42 -0300
+* Reloaded "pages", "snippets" at 2015-04-28 14:52:16 -0300
+* Reloaded "pages", "snippets" at 2015-04-28 14:52:20 -0300
+* Reloaded "pages", "snippets" at 2015-04-28 14:52:35 -0300
+* Reloaded "pages", "snippets" at 2015-04-28 14:52:51 -0300
+* Reloaded "pages", "snippets" at 2015-04-28 14:52:56 -0300
+* Reloaded "pages", "snippets" at 2015-04-28 14:53:50 -0300
+[0;97;49mStarted GET "/en" at 2015-04-28 14:53:56 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered snippet gmaps
+  Rendered snippet contact_us
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 9.0ms
+
+[0m
+[0;97;49mStarted GET "/bower_components/swiper/dist/css/swiper.min.css" at 2015-04-28 14:53:56 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.7ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-04-28 14:54:08 -0300
+* Reloaded "pages", "snippets" at 2015-04-28 14:54:11 -0300
+* Reloaded "pages", "snippets" at 2015-04-28 14:54:16 -0300
+[0;97;49mStarted GET "/en" at 2015-04-28 14:54:19 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered snippet gmaps
+  Rendered snippet contact_us
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.6ms
+
+[0m
+[0;97;49mStarted GET "/bower_components/swiper/dist/css/swiper.min.css" at 2015-04-28 14:54:19 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.2ms
+
+[0m

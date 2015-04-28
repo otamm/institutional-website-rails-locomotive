@@ -1,3 +1,15 @@
+---
+
+editable-elements:
+    'footer-address': Av Paulista, 3681, Conj. A
+    'comp-phon': +55 11 6283 1829
+    'comp-email': hello@kiddolabs.com
+
+---
 <footer>
-  <p>&copy; {{ site.name }} {{ now | localized_date: '%Y' }} </p>
+  <p>&copy; {{ now | localized_date: '%Y' }} ALL RIGHTS RESERVED</p>
+  {% for locale_string in locales %}
+  | <a href="/{{ locale_string }}">{{ locale_string | translate }}</a> 
+  {% endfor %}
+   |
 </footer>

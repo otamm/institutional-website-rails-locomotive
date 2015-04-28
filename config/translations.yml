@@ -8,9 +8,10 @@
 #   fr: Bonjour le monde !
 contact_form_name_label:
     en: Name
-
+    pt-BR: Nome
 contact_form_name_placeholder:
     en: Insert your first and last names here...
+    pt-BR: Insira seu primeiro e último nome aqui...
 
 contact_form_email_placeholder:
     en: Insert your e-mail address you'd like to receive an answer...
