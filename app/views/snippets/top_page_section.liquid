@@ -1,14 +1,6 @@
 ---
 title: Top page section
 
-# true if the page is included in the menu
-listed: true
-# true if the page is published
-published: true
-
-# true if the page can be used as a layout for new pages created by the editors
-# is_layout: true
-
 # position among sibling pages
 # position: 1
 
@@ -18,9 +10,11 @@ published: true
 # content type that this page is templatizing
 # content_type: "<slug of one of the content types>"
 
-# editable_elements:
+editable-elements:
 #   'some_block/some_slug': "<text>"
 #   'some_block/some_slug': "<relative path to the file under the public/samples folder>"
+    'main-link': Contact
+    'main-link-url': www.youtube.com
 ---
 {% block 'featured_photo' %}
   {% capture caption %}
@@ -41,6 +35,7 @@ published: true
       {% for link in contents.headerlinks %}
         <li><a href="{{ link.redirect }}">{{ link.title }}</a></li>
       {% endfor %}
+        <li><a href="{{ editable_text "main-link-url", format: "raw", hint: "The url for the main top link" }}www.youtube.com{{endeditable_text}}">{{ editable_text "main-link", format: "raw", hint: "The label for the main top link" }}CONTACT{{endeditable_text}}</a>
     </ul>
     <p>{{ caption }}</p>
   </div>
