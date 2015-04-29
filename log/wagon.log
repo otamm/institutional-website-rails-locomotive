@@ -5024,3 +5024,225 @@ Detecting locale EN
 
 [0m
 * Reloaded "pages", "snippets" at 2015-04-28 19:19:08 -0300
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+[0;97;49mStarted GET "/" at 2015-04-29 11:42:46 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered snippet gmaps
+  Rendered snippet contact_us
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 25.7ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-04-29 11:43:01 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered snippet gmaps
+  Rendered snippet contact_us
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.9ms
+
+[0m
+[0;97;49mStarted GET "/bower_components/swiper/dist/css/swiper.min.css" at 2015-04-29 11:43:02 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.1ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-04-29 11:43:19 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered snippet gmaps
+  Rendered snippet contact_us
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 9.0ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-04-29 11:44:08 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered snippet gmaps
+  Rendered snippet contact_us
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 9.3ms
+
+[0m
+[0;97;49mStarted GET "/bower_components/swiper/dist/css/swiper.min.css" at 2015-04-29 11:44:08 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.7ms
+
+[0m
+[0;97;49mStarted GET "/bower_components/swiper/dist/css/swiper.min.css" at 2015-04-29 11:44:21 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 0.9ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-04-29 11:44:23 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered snippet gmaps
+  Rendered snippet contact_us
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 11.0ms
+
+[0m
+[0;97;49mStarted GET "/bower_components/swiper/dist/css/swiper.min.css" at 2015-04-29 11:44:23 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.8ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-04-29 11:45:36 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered snippet gmaps
+  Rendered snippet contact_us
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.9ms
+
+[0m
+[0;97;49mStarted GET "/bower_components/swiper/dist/css/swiper.min.css" at 2015-04-29 11:45:37 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.0ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-04-29 11:45:39 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered snippet gmaps
+  Rendered snippet contact_us
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.9ms
+
+[0m
+[0;97;49mStarted GET "/bower_components/swiper/dist/css/swiper.min.css" at 2015-04-29 11:45:39 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-04-29 11:47:23 -0300
+[0;97;49mStarted GET "/" at 2015-04-29 11:47:26 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered snippet gmaps
+  Rendered snippet contact_us
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 10.4ms
+
+[0m
+[0;97;49mStarted GET "/bower_components/swiper/dist/css/swiper.min.css" at 2015-04-29 11:47:26 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.6ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-04-29 11:47:39 -0300
+[0;97;49mStarted GET "/" at 2015-04-29 11:47:40 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered snippet gmaps
+  Rendered snippet contact_us
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.0ms
+
+[0m
+[0;97;49mStarted GET "/bower_components/swiper/dist/css/swiper.min.css" at 2015-04-29 11:47:40 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.6ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-04-29 11:49:05 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered snippet gmaps
+  Rendered snippet contact_us
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 9.8ms
+
+[0m
+[0;97;49mStarted GET "/bower_components/swiper/dist/css/swiper.min.css" at 2015-04-29 11:49:05 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.8ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-04-29 11:49:59 -0300
+[0;97;49mStarted GET "/" at 2015-04-29 11:50:02 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered snippet gmaps
+  Rendered snippet contact_us
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 9.7ms
+
+[0m
+[0;97;49mStarted GET "/bower_components/swiper/dist/css/swiper.min.css" at 2015-04-29 11:50:02 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.1ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-04-29 11:51:32 -0300
+[0;97;49mStarted GET "/" at 2015-04-29 11:51:34 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered snippet gmaps
+  Rendered snippet contact_us
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 10.3ms
+
+[0m
+[0;97;49mStarted GET "/bower_components/swiper/dist/css/swiper.min.css" at 2015-04-29 11:51:34 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.6ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-04-29 12:00:04 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet top_page_section
+  Rendered snippet our_dna
+  Rendered snippet gmaps
+  Rendered snippet contact_us
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 10.3ms
+
+[0m
+[0;97;49mStarted GET "/bower_components/swiper/dist/css/swiper.min.css" at 2015-04-29 12:00:04 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.5ms
+
+[0m

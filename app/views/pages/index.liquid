@@ -21,11 +21,9 @@ published: true
     {% include 'contact_us' %}
     {% include 'footer' %}
   </body>
-  {{ 'main.js' | javascript_tag }}
+  <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
   {{ 'modalEffects.js' | javascript_tag }}
   {{ 'classie.js' | javascript_tag }}
   {{ 'home.js' | javascript_tag }}
-  <!--<script src="./public/scripts/modalEffects.js">
-  <script src="./public/scripts/classie.js">
-  <script src="./public/scripts/home.js">-->
+  {{ 'main.js' | javascript_tag }}
 </html>
