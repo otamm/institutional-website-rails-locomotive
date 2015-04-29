@@ -1,6 +1,6 @@
 // bower:scss
-//@import "bourbon/bourbon";
-//@import "neat/neat";
+@import "bourbon/bourbon";
+@import "neat/neat";
 // endbower 
 
 
@@ -8,7 +8,7 @@
 @import "utils/normalize.scss";
 
 // fonts:
-//@import "utils/fonts.scss";
+@import "utils/fonts.scss";
 
 // variables
 @import "_variables.scss";
@@ -17,7 +17,7 @@
 @import "_mixin.scss";
 
 // home
-//@import "_home.scss";
+@import "_home.scss";
 
 // Kiddo Swiper
 @import "_kiddo-swiper.scss";
