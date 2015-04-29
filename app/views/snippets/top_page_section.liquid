@@ -1,26 +1,26 @@
 ---
-editable-elements:
+editable_elements:
 #   'some_block/some_slug': "<text>"
 #   'some_block/some_slug': "<relative path to the file under the public/samples folder>"
-    'main-link': Contact
-    'main-link-url': www.youtube.com
-    'main-str-1-l1': HEL
-    'main-str-1-l2': LO
-    'main-str-2-l2': THERE
-    'title1': KIDDO
-    'title2': LABS
+    'main-link/main_link': Contact
+    'main-link-url/main_link_url': www.youtube.com
+    'main-str-1-l1/main_str_1_l1': HEL
+    'main-str-1-l2/main_str_1_l2': LO
+    'main-str-2-l2/main_str_2_l2': THERE
+    'title-1/title_1': KIDDO
+    'title-2/title_2': LABS
 ---
-  <h3 id="yellow-title">{{title1}}</h3><h3 id="black-title">{{title2}}</h3>
+  <h3 id="yellow-title">{{page.comp1}}</h3><h3 id="black-title">{{page.comp2}}</h3>
     <ul id="header-links">
       {% for link in contents.headerlinks %}
         <li><a href="{{ link.redirect }}">{{ link.title }}</a></li>
       {% endfor %}
-        <li><a href="{{ editable_text "main-link-url", format: "raw", hint: "The url for the main top link" }}www.youtube.com{{endeditable_text}}" id="main-link">
-        {{ editable_text "main-link", format: "raw", hint: "The label for the main top link" }}CONTACT{{endeditable_text}}</a>
+        <li><a href="{% editable_text "main-link-url", format: "raw", hint: "The url for the main top link" %}www.youtube.com{% endeditable_text %}" id="main-link">
+        {% editable_text "main-link", format: "raw", hint: "The label for the main top link" %}CONTACT{% endeditable_text %}</a></li>
     </ul>
 
-<h1>{{ editable_text "main-str-1-l1", format: "raw", hint: "First line of top page label using font A."}}HEL{{endeditable_text}}</h1></br>
-<h1>{{ editable_text "main-str-1-l2", format: "raw", hint: "Second line of top page label using font A."}}LO{{endeditable_text}}</h1><h1>{{ editable_text "main-str-2-l2", format: "raw", hint: "Second line of top page label using font B."}} THERE{{endeditable_text}}</h1></br></br>
+<h1>{% editable_text "main-str-1-l1", format: "raw", hint: "First line of top page label using font A." %}HEL{% endeditable_text %}</h1></br>
+<h1>{% editable_text "main-str-1-l2", format: "raw", hint: "Second line of top page label using font A." %}LO{% endeditable_text %}</h1><h1>{% editable_text "main-str-2-l2", format: "raw", hint: "Second line of top page label using font B." %} THERE{% endeditable_text %}</h1></br></br>
 
 {% block 'featured_photo' %}
   {% capture caption %}
@@ -30,12 +30,12 @@ editable-elements:
   {% endcapture %}
   {% capture photo %}
   	{% editable_file "photo" %}
-  		/samples/pages/gyeongbokgung-full.jpg
+  		/samples/images/dynamic/back-kiddo-main.jpg
   	{% endeditable_file %}
   {% endcapture %}
   <div class="top-page-image-bg">
     <a href="{{ photo | resize: '800x' }}">
-      <img src="{{ photo | resize: '400x' }}" alt="{{ caption }}" />
+      <img src="{{ photo | resize: '400x' }}" alt="{{ caption }} oi" />
     </a>
     <ul id="header-links">
       {% for link in contents.headerlinks %}

@@ -1,12 +1,12 @@
 # The name of this site
 # This text displays in the back-office and
 # can be used in templates through the site.name global variable
-name: "basiclwebsite"
+name: "Kiddo Labs"
 
 # The site's subdomain
 # This option is for sites on multi-site engines
 # The value determines where the site can be accessed under the engine's primary domain
-subdomain: basiclwebsite
+subdomain: KiddoWebSite
 
 # An array of domain aliases for the site
 # This option is for sites on multi-site engines
